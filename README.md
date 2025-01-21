@@ -15,4 +15,6 @@ JetSam Terminal – A grim setup inside the freight terminal, blending crime wit
 Rex's Diner (Route 68) – A chilling contrast of desolation and horror at an abandoned roadside diner. 🍽️🩸
 Bring a touch of crime and immersion to your server with these detailed, spine-chilling setups! 💀
 
-- If you have any question , open ticket on my discord : https://discord.gg/NmjkYjFKa6
+- If you have any question , open ticket on my discord: https://discord.gg/NmjkYjFKa6
+
+- Youtube Video: https://www.youtube.com/watch?v=IeojfNyGgmc
